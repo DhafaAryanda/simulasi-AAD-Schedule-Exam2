@@ -22,6 +22,5 @@ abstract class CourseDatabase : RoomDatabase() {
                         .build()
             }
         }
-
     }
 }
